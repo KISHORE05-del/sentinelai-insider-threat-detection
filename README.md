@@ -4,6 +4,14 @@ An unsupervised machine learning system that learns each employee's normal
 behavioral baseline (login times, file access, USB usage, uploads) and flags
 statistically anomalous activity in real time with a 0–100 risk score.
 
+## Dashboard Preview
+
+![Dashboard Overview](images/dashboard.png)
+
+![Alerts Table](images/alerts.png)
+
+![Employee Drill-down](images/drilldown.png)
+
 ## Problem
 
 Traditional security tools (firewalls, antivirus) protect against external
